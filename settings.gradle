@@ -1,0 +1,3 @@
+include ':lib_fingerPrint'
+include ':app'
+rootProject.name = "FingerPrint"
